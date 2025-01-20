@@ -1,0 +1,47 @@
+Ojasvi Bhargava
++91 9354380156 | ojasvibhargava7@gmail.com | https://linkedin.com/in/ojasvib | https://github.com/ojasvib/
+Work Experience
+Samsung, Noida	June 2022 – Present
+Software Engineer
+●	Designed and implemented scalable microservices using Java (Spring Boot) to optimize the performance of Samsung’s internal messaging platform, achieving a 15% reduction in message latency and improving system uptime to 99.9%.
+●	Architected RESTful APIs for internal applications, enabling efficient cross-team integrations and reducing API response times by 20%.
+●	Deployed event-driven architectures leveraging Apache Kafka for real-time data processing, resulting in 30% faster asynchronous communication across distributed systems.
+●	Migrated legacy codebases to containerized environments using Docker and deployed scalable applications on AWS (EC2, S3, Lambda), enabling seamless CI/CD pipelines with Jenkins and GitHub Actions.
+●	Improved data processing pipelines using AWS Glue and Python, reducing ETL processing times by 25%.
+●	Refactored database workflows by migrating to NoSQL (Aurora), achieving 30% better query performance and reducing operational costs by 15%.
+●	Led a cross-functional team to design a secure authentication mechanism, integrating OAuth 2.0 into Samsung’s internal platforms, enhancing data security compliance.
+●	Collaborated with global teams to deliver production-ready applications following Agile methodologies, ensuring high-quality deliverables within tight timelines.
+Software Engineering Intern
+●	Designed and developed the Direct Dial feature for Galaxy Flip devices, allowing users to seamlessly call favorite contacts from the cover screen.
+●	Implemented event-based synchronization mechanisms using Kotlin Coroutines, reducing data syncing latency by 15%.
+●	Enhanced call handling workflows with Call Message Continuity, ensuring uninterrupted communication by providing call resume prompts and synced message notifications.
+Skills
+●	Languages: Java, Kotlin, Python 
+●	Frameworks & Tools: Spring Boot, Hibernate, Flask, Apache Kafka, Dagger-Hilt, Jenkins, GitHub Actions
+●	Cloud Technologies: AWS (Lambda, Glue, S3, ECS, EKS), Docker, Kubernetes
+●	Databases: MySQL, NoSQL (Aurora, DynamoDB), PostgreSQL
+●	Mobile Development: Android SDK, Jetpack Compose, MVVM
+●	Other Tools: Retrofit, Room, WorkManager Computer Science Concepts: Data Structures, Algorithms, Object-Oriented Programming, Operating Systems
+Projects
+Bannr	GenAI(Imagen and Gemini Flash), Jetpack Compose, Kotlin (Coroutines), Python, Flask, Ngrock
+Ranked in the top 5 of the Google GenAI Hackathon 2024, Bannr is an app that enables businesses to create high-quality banners quickly and effortlessly. It uses Imagen for stunning product banners and Gemini for intelligent prompt generation.
+Memify	GenAI(Gemini Flash API), Coil, Kotlin (Coroutines), Jetpack Compose, Capturable
+An AI-powered meme maker leveraging Google's Gemini Flash model for intelligent caption generation. Implemented drag, rotate, and resize functionality for customizable memes, ensuring a seamless user experience.
+Tweetsy	HILT, Retrofit, Navigation Component, MVVM, Kotlin(Coroutines), Jetpack Compose, JSONBin.io
+Tweetsy is a curated app that organizes and displays content stored in the JSONBin.io cloud service, offering smooth navigation and a streamlined interface for easy browsing and Education
+YMCA University of Science and Technology, Faridabad	2018 – 2022
+Bachelor of Technology in Electronics, Instrumentation and Control Engineering	8.2 GPA
+●	Courses: Artificial Intelligence, Data Structures, Computer Networks, IoT, Effective Technical Communication
+●	Organized and participated in coding and debating events, actively contributed to the relevant societies.
+Additional 
+●	Professional Affiliations:
+○	Google Developer Groups' Noida & Delhi
+○	Kotlin User Group New Delhi
+○	Github's GitTogether Delhi
+○	Android Worldwide
+●	Certifications:
+○	AI Essentials, Microsoft 
+○	Intermediate grade in AI, Samsung
+○	2nd highest grade in Algorithms, Samsung
+○	Cybersecurity Essentials , Microsoft 
+
